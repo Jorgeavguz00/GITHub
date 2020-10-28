@@ -2,7 +2,6 @@
 using namespace std; 
 
 int main() {
-  std::cout << "Hello World!\n";
-  cout<< "Hola"<<endl;
-  cout<<" AAAA "<<endl;
+  std::cout << "Hola Crayola\n";
+  cout<< "Kon'nichiwa sekai"<<endl;
 }
